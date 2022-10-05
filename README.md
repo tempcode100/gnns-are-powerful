@@ -40,5 +40,3 @@ python main_GIN_1.py
 ```
 python main_GIN_plus.py
 ```
-# gnns-are-powerful
-# test
