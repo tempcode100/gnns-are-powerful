@@ -1,0 +1,280 @@
+Output file
+dataset:PROTEINS
+hidden dimension:8
+test micro mean:[0.735 0.723 0.669 0.678]std[0.05  0.045 0.052 0.054]
+test macro mean:[0.71  0.714 0.658 0.667]std[0.061 0.046 0.052 0.052]
+train micro mean:[0.742 0.735 0.787 0.787]std[0.005 0.011 0.017 0.024]
+train macro mean:[0.719 0.725 0.778 0.779]std[0.01  0.01  0.019 0.023]
+hidden dimension:16
+test micro mean:[0.735 0.735 0.678 0.678]std[0.039 0.039 0.027 0.027]
+test macro mean:[0.715 0.715 0.668 0.668]std[0.038 0.038 0.029 0.029]
+train micro mean:[0.731 0.731 0.88  0.88 ]std[0.012 0.012 0.026 0.026]
+train macro mean:[0.712 0.712 0.876 0.876]std[0.017 0.017 0.027 0.027]
+hidden dimension:32
+test micro mean:[0.74  0.74  0.664 0.664]std[0.046 0.046 0.035 0.035]
+test macro mean:[0.723 0.723 0.652 0.652]std[0.045 0.045 0.037 0.037]
+train micro mean:[0.731 0.731 0.937 0.937]std[0.017 0.017 0.014 0.014]
+train macro mean:[0.713 0.713 0.935 0.935]std[0.02  0.02  0.014 0.014]
+hidden dimension:64
+test micro mean:[0.734 0.727 0.665 0.665]std[0.047 0.036 0.028 0.028]
+test macro mean:[0.707 0.716 0.646 0.646]std[0.056 0.038 0.027 0.027]
+train micro mean:[0.736 0.732 0.962 0.962]std[0.011 0.026 0.013 0.013]
+train macro mean:[0.71  0.722 0.961 0.961]std[0.02  0.023 0.013 0.013]
+hidden dimension:128
+test micro mean:[0.738 0.738 0.642 0.642]std[0.036 0.036 0.027 0.027]
+test macro mean:[0.72  0.72  0.625 0.625]std[0.032 0.032 0.029 0.029]
+train micro mean:[0.745 0.745 0.958 0.958]std[0.008 0.008 0.016 0.016]
+train macro mean:[0.728 0.728 0.957 0.957]std[0.014 0.014 0.016 0.016]
+hidden dimension:256
+test micro mean:[0.734 0.732 0.674 0.674]std[0.035 0.041 0.039 0.039]
+test macro mean:[0.719 0.719 0.662 0.662]std[0.036 0.037 0.044 0.044]
+train micro mean:[0.716 0.718 0.88  0.88 ]std[0.017 0.013 0.053 0.053]
+train macro mean:[0.701 0.705 0.875 0.875]std[0.01  0.008 0.055 0.055]
+dataset:PTC
+hidden dimension:8
+test micro mean:[0.657 0.657 0.622 0.622]std[0.088 0.088 0.106 0.106]
+test macro mean:[0.651 0.651 0.612 0.612]std[0.091 0.091 0.116 0.116]
+train micro mean:[0.873 0.873 0.88  0.88 ]std[0.029 0.029 0.018 0.018]
+train macro mean:[0.87  0.87  0.878 0.878]std[0.031 0.031 0.019 0.019]
+hidden dimension:16
+test micro mean:[0.628 0.628 0.605 0.605]std[0.073 0.073 0.068 0.068]
+test macro mean:[0.619 0.619 0.59  0.59 ]std[0.07  0.07  0.072 0.072]
+train micro mean:[0.919 0.919 0.936 0.936]std[0.015 0.015 0.006 0.006]
+train macro mean:[0.918 0.918 0.935 0.935]std[0.015 0.015 0.006 0.006]
+hidden dimension:32
+test micro mean:[0.62  0.614 0.599 0.599]std[0.053 0.061 0.048 0.048]
+test macro mean:[0.606 0.606 0.588 0.588]std[0.054 0.058 0.05  0.05 ]
+train micro mean:[0.849 0.872 0.939 0.939]std[0.034 0.094 0.005 0.005]
+train macro mean:[0.846 0.871 0.939 0.939]std[0.036 0.096 0.005 0.005]
+hidden dimension:64
+test micro mean:[0.631 0.631 0.596 0.596]std[0.062 0.062 0.058 0.058]
+test macro mean:[0.619 0.619 0.589 0.589]std[0.062 0.062 0.055 0.055]
+train micro mean:[0.855 0.855 0.94  0.94 ]std[0.043 0.043 0.006 0.006]
+train macro mean:[0.853 0.853 0.939 0.939]std[0.044 0.044 0.006 0.006]
+hidden dimension:128
+test micro mean:[0.622 0.622 0.593 0.579]std[0.045 0.045 0.061 0.052]
+test macro mean:[0.615 0.615 0.584 0.57 ]std[0.042 0.042 0.061 0.051]
+train micro mean:[0.92 0.92 0.94 0.94]std[0.013 0.013 0.006 0.006]
+train macro mean:[0.919 0.919 0.939 0.939]std[0.014 0.014 0.006 0.006]
+hidden dimension:256
+test micro mean:[0.608 0.608 0.584 0.584]std[0.087 0.087 0.036 0.036]
+test macro mean:[0.603 0.603 0.576 0.576]std[0.086 0.086 0.037 0.037]
+train micro mean:[0.864 0.864 0.939 0.939]std[0.045 0.045 0.004 0.004]
+train macro mean:[0.863 0.863 0.939 0.939]std[0.045 0.045 0.004 0.004]
+dataset:IMDBBINARY
+hidden dimension:8
+test micro mean:[0.726 0.726 0.709 0.709]std[0.031 0.025 0.025 0.025]
+test macro mean:[0.724 0.724 0.707 0.707]std[0.034 0.025 0.026 0.026]
+train micro mean:[0.713 0.718 0.749 0.749]std[0.012 0.011 0.012 0.012]
+train macro mean:[0.711 0.715 0.749 0.749]std[0.015 0.015 0.012 0.012]
+hidden dimension:16
+test micro mean:[0.736 0.736 0.731 0.736]std[0.028 0.028 0.031 0.028]
+test macro mean:[0.735 0.735 0.73  0.735]std[0.028 0.028 0.031 0.028]
+train micro mean:[0.759 0.759 0.759 0.759]std[0.012 0.012 0.013 0.012]
+train macro mean:[0.758 0.758 0.758 0.758]std[0.012 0.012 0.014 0.012]
+hidden dimension:32
+test micro mean:[0.747 0.747 0.726 0.726]std[0.032 0.032 0.029 0.029]
+test macro mean:[0.746 0.746 0.725 0.725]std[0.032 0.032 0.029 0.029]
+train micro mean:[0.774 0.774 0.778 0.778]std[0.014 0.014 0.015 0.015]
+train macro mean:[0.773 0.773 0.778 0.778]std[0.014 0.014 0.015 0.015]
+hidden dimension:64
+test micro mean:[0.742 0.742 0.733 0.733]std[0.036 0.036 0.028 0.028]
+test macro mean:[0.741 0.741 0.731 0.731]std[0.037 0.037 0.03  0.03 ]
+train micro mean:[0.765 0.765 0.776 0.776]std[0.012 0.012 0.013 0.013]
+train macro mean:[0.764 0.764 0.775 0.775]std[0.013 0.013 0.014 0.014]
+hidden dimension:128
+test micro mean:[0.742 0.742 0.735 0.735]std[0.025 0.025 0.023 0.023]
+test macro mean:[0.74  0.74  0.734 0.734]std[0.026 0.026 0.023 0.023]
+train micro mean:[0.77 0.77 0.78 0.78]std[0.01 0.01 0.01 0.01]
+train macro mean:[0.768 0.768 0.78  0.78 ]std[0.011 0.011 0.01  0.01 ]
+hidden dimension:256
+test micro mean:[0.743 0.743 0.729 0.729]std[0.029 0.029 0.033 0.033]
+test macro mean:[0.742 0.742 0.728 0.728]std[0.029 0.029 0.032 0.032]
+train micro mean:[0.759 0.759 0.767 0.767]std[0.008 0.008 0.013 0.013]
+train macro mean:[0.758 0.758 0.767 0.767]std[0.008 0.008 0.013 0.013]
+dataset:IMDBMULTI
+hidden dimension:8
+test micro mean:[0.5   0.498 0.495 0.498]std[0.021 0.02  0.024 0.02 ]
+test macro mean:[0.487 0.489 0.48  0.489]std[0.028 0.022 0.028 0.022]
+train micro mean:[0.506 0.512 0.515 0.512]std[0.006 0.008 0.007 0.008]
+train macro mean:[0.493 0.503 0.5   0.503]std[0.01  0.009 0.009 0.009]
+hidden dimension:16
+test micro mean:[0.5   0.5   0.489 0.481]std[0.03  0.03  0.022 0.026]
+test macro mean:[0.494 0.494 0.475 0.47 ]std[0.033 0.033 0.027 0.028]
+train micro mean:[0.512 0.512 0.523 0.522]std[0.007 0.007 0.008 0.009]
+train macro mean:[0.507 0.507 0.514 0.515]std[0.008 0.008 0.009 0.008]
+hidden dimension:32
+test micro mean:[0.501 0.5   0.492 0.492]std[0.017 0.022 0.017 0.017]
+test macro mean:[0.485 0.492 0.479 0.479]std[0.025 0.025 0.023 0.023]
+train micro mean:[0.522 0.525 0.531 0.531]std[0.009 0.009 0.011 0.011]
+train macro mean:[0.508 0.518 0.521 0.521]std[0.013 0.01  0.012 0.012]
+hidden dimension:64
+test micro mean:[0.499 0.497 0.483 0.485]std[0.025 0.019 0.019 0.022]
+test macro mean:[0.48  0.49  0.473 0.477]std[0.03  0.022 0.019 0.024]
+train micro mean:[0.499 0.522 0.531 0.529]std[0.006 0.007 0.007 0.007]
+train macro mean:[0.478 0.516 0.521 0.523]std[0.011 0.008 0.008 0.008]
+hidden dimension:128
+test micro mean:[0.503 0.499 0.492 0.492]std[0.028 0.037 0.023 0.023]
+test macro mean:[0.48  0.492 0.483 0.483]std[0.034 0.047 0.023 0.023]
+train micro mean:[0.507 0.51  0.534 0.534]std[0.005 0.015 0.007 0.007]
+train macro mean:[0.483 0.501 0.526 0.526]std[0.012 0.024 0.006 0.006]
+hidden dimension:256
+test micro mean:[0.497 0.493 0.493 0.494]std[0.031 0.031 0.018 0.023]
+test macro mean:[0.482 0.486 0.475 0.486]std[0.037 0.033 0.024 0.024]
+train micro mean:[0.511 0.508 0.529 0.525]std[0.004 0.006 0.014 0.009]
+train macro mean:[0.495 0.503 0.513 0.518]std[0.012 0.008 0.02  0.011]
+dataset:COLLAB
+hidden dimension:8
+test micro mean:[0.718 0.705 0.718 0.712]std[0.015 0.027 0.015 0.023]
+test macro mean:[0.689 0.69  0.689 0.689]std[0.018 0.027 0.018 0.025]
+train micro mean:[0.72  0.708 0.72  0.718]std[0.009 0.016 0.009 0.009]
+train macro mean:[0.69  0.691 0.69  0.695]std[0.016 0.014 0.016 0.014]
+hidden dimension:16
+test micro mean:[0.715 0.703 0.709 0.703]std[0.019 0.017 0.015 0.017]
+test macro mean:[0.678 0.688 0.676 0.688]std[0.025 0.017 0.021 0.017]
+train micro mean:[0.714 0.707 0.715 0.707]std[0.011 0.016 0.012 0.016]
+train macro mean:[0.679 0.692 0.679 0.692]std[0.018 0.016 0.021 0.016]
+hidden dimension:32
+test micro mean:[0.726 0.714 0.726 0.714]std[0.014 0.016 0.014 0.016]
+test macro mean:[0.695 0.701 0.695 0.701]std[0.013 0.015 0.013 0.015]
+train micro mean:[0.724 0.72  0.724 0.72 ]std[0.011 0.013 0.011 0.013]
+train macro mean:[0.692 0.706 0.692 0.706]std[0.02  0.012 0.02  0.012]
+hidden dimension:64
+test micro mean:[0.702 0.695 0.7   0.695]std[0.017 0.019 0.03  0.019]
+test macro mean:[0.66  0.671 0.648 0.671]std[0.025 0.022 0.053 0.022]
+train micro mean:[0.707 0.703 0.707 0.703]std[0.009 0.008 0.012 0.008]
+train macro mean:[0.665 0.679 0.659 0.679]std[0.018 0.011 0.031 0.011]
+hidden dimension:128
+test micro mean:[0.704 0.698 0.698 0.698]std[0.019 0.018 0.014 0.018]
+test macro mean:[0.665 0.672 0.66  0.672]std[0.025 0.022 0.019 0.022]
+train micro mean:[0.704 0.701 0.705 0.701]std[0.01  0.009 0.009 0.009]
+train macro mean:[0.667 0.674 0.668 0.674]std[0.017 0.013 0.018 0.013]
+hidden dimension:256
+test micro mean:[0.701 0.701 0.701 0.701]std[0.024 0.024 0.024 0.024]
+test macro mean:[0.661 0.661 0.661 0.661]std[0.027 0.027 0.027 0.027]
+train micro mean:[0.703 0.703 0.703 0.703]std[0.015 0.015 0.015 0.015]
+train macro mean:[0.662 0.662 0.662 0.662]std[0.021 0.021 0.021 0.021]
+dataset:MUTAG
+hidden dimension:8
+test micro mean:[0.876 0.876 0.849 0.849]std[0.089 0.089 0.107 0.107]
+test macro mean:[0.858 0.858 0.826 0.826]std[0.105 0.105 0.125 0.125]
+train micro mean:[0.959 0.959 0.97  0.97 ]std[0.009 0.009 0.005 0.005]
+train macro mean:[0.954 0.954 0.967 0.967]std[0.01  0.01  0.006 0.006]
+hidden dimension:16
+test micro mean:[0.893 0.892 0.86  0.86 ]std[0.055 0.106 0.108 0.096]
+test macro mean:[0.874 0.879 0.836 0.839]std[0.068 0.114 0.126 0.112]
+train micro mean:[0.934 0.966 0.97  0.97 ]std[0.022 0.007 0.006 0.006]
+train macro mean:[0.922 0.962 0.966 0.966]std[0.028 0.008 0.007 0.007]
+hidden dimension:32
+test micro mean:[0.897 0.897 0.855 0.844]std[0.077 0.077 0.096 0.106]
+test macro mean:[0.886 0.886 0.833 0.822]std[0.082 0.082 0.109 0.117]
+train micro mean:[0.955 0.955 0.97  0.97 ]std[0.009 0.009 0.005 0.005]
+train macro mean:[0.95  0.95  0.966 0.967]std[0.009 0.009 0.006 0.006]
+hidden dimension:64
+test micro mean:[0.887 0.887 0.839 0.839]std[0.084 0.084 0.099 0.099]
+test macro mean:[0.871 0.871 0.813 0.813]std[0.09  0.09  0.115 0.115]
+train micro mean:[0.966 0.966 0.97  0.97 ]std[0.004 0.004 0.005 0.005]
+train macro mean:[0.961 0.961 0.967 0.967]std[0.005 0.005 0.006 0.006]
+hidden dimension:128
+test micro mean:[0.882 0.882 0.839 0.839]std[0.071 0.071 0.111 0.111]
+test macro mean:[0.862 0.862 0.815 0.815]std[0.091 0.091 0.124 0.124]
+train micro mean:[0.949 0.949 0.97  0.97 ]std[0.019 0.019 0.005 0.005]
+train macro mean:[0.943 0.943 0.967 0.967]std[0.021 0.021 0.006 0.006]
+hidden dimension:256
+test micro mean:[0.898 0.898 0.839 0.844]std[0.076 0.076 0.113 0.109]
+test macro mean:[0.886 0.886 0.813 0.823]std[0.088 0.088 0.13  0.12 ]
+train micro mean:[0.933 0.933 0.969 0.969]std[0.029 0.029 0.006 0.005]
+train macro mean:[0.926 0.926 0.965 0.965]std[0.029 0.029 0.007 0.005]
+dataset:NCI1
+hidden dimension:8
+test micro mean:[0.707 0.705 0.702 0.702]std[0.016 0.011 0.022 0.022]
+test macro mean:[0.702 0.703 0.701 0.701]std[0.016 0.013 0.022 0.022]
+train micro mean:[0.727 0.73  0.731 0.731]std[0.015 0.012 0.013 0.013]
+train macro mean:[0.722 0.729 0.731 0.731]std[0.017 0.012 0.013 0.013]
+hidden dimension:16
+test micro mean:[0.752 0.752 0.751 0.747]std[0.022 0.022 0.022 0.019]
+test macro mean:[0.751 0.751 0.75  0.747]std[0.022 0.022 0.022 0.019]
+train micro mean:[0.801 0.801 0.811 0.811]std[0.017 0.017 0.012 0.011]
+train macro mean:[0.8   0.8   0.811 0.811]std[0.018 0.018 0.012 0.012]
+hidden dimension:32
+test micro mean:[0.766 0.764 0.756 0.756]std[0.012 0.013 0.016 0.016]
+test macro mean:[0.764 0.764 0.755 0.755]std[0.014 0.013 0.017 0.017]
+train micro mean:[0.833 0.847 0.855 0.855]std[0.018 0.012 0.014 0.014]
+train macro mean:[0.832 0.847 0.855 0.855]std[0.019 0.012 0.014 0.014]
+hidden dimension:64
+test micro mean:[0.772 0.772 0.763 0.763]std[0.019 0.019 0.027 0.027]
+test macro mean:[0.772 0.772 0.763 0.763]std[0.019 0.019 0.027 0.027]
+train micro mean:[0.904 0.904 0.906 0.906]std[0.018 0.018 0.022 0.022]
+train macro mean:[0.904 0.904 0.906 0.906]std[0.018 0.018 0.022 0.022]
+hidden dimension:128
+test micro mean:[0.77  0.77  0.764 0.764]std[0.017 0.017 0.017 0.017]
+test macro mean:[0.77  0.77  0.764 0.764]std[0.017 0.017 0.017 0.017]
+train micro mean:[0.897 0.897 0.933 0.933]std[0.025 0.025 0.01  0.01 ]
+train macro mean:[0.897 0.897 0.933 0.933]std[0.025 0.025 0.01  0.01 ]
+hidden dimension:256
+test micro mean:[0.768 0.768 0.766 0.766]std[0.026 0.026 0.021 0.021]
+test macro mean:[0.768 0.768 0.766 0.766]std[0.026 0.026 0.021 0.021]
+train micro mean:[0.901 0.901 0.916 0.916]std[0.03  0.03  0.032 0.032]
+train macro mean:[0.901 0.901 0.916 0.916]std[0.03  0.03  0.032 0.032]
+dataset:REDDITBINARY
+hidden dimension:8
+test micro mean:[0.816 0.816 0.816 0.816]std[0.056 0.056 0.056 0.056]
+test macro mean:[0.815 0.815 0.815 0.815]std[0.057 0.057 0.057 0.057]
+train micro mean:[0.816 0.816 0.816 0.816]std[0.048 0.048 0.048 0.048]
+train macro mean:[0.814 0.814 0.814 0.814]std[0.049 0.049 0.049 0.049]
+hidden dimension:16
+test micro mean:[0.796 0.796 0.796 0.796]std[0.028 0.028 0.036 0.036]
+test macro mean:[0.794 0.794 0.793 0.793]std[0.031 0.031 0.038 0.038]
+train micro mean:[0.794 0.794 0.803 0.803]std[0.028 0.028 0.028 0.028]
+train macro mean:[0.793 0.793 0.8   0.8  ]std[0.028 0.028 0.03  0.03 ]
+hidden dimension:32
+test micro mean:[0.793 0.793 0.787 0.787]std[0.023 0.023 0.028 0.028]
+test macro mean:[0.792 0.792 0.786 0.786]std[0.023 0.023 0.029 0.029]
+train micro mean:[0.791 0.791 0.794 0.794]std[0.015 0.015 0.02  0.02 ]
+train macro mean:[0.791 0.791 0.793 0.793]std[0.014 0.014 0.021 0.021]
+hidden dimension:64
+test micro mean:[0.797 0.797 0.795 0.795]std[0.012 0.012 0.011 0.011]
+test macro mean:[0.795 0.795 0.794 0.794]std[0.014 0.014 0.012 0.012]
+train micro mean:[0.789 0.789 0.795 0.795]std[0.02  0.02  0.014 0.014]
+train macro mean:[0.788 0.788 0.794 0.794]std[0.021 0.021 0.014 0.014]
+hidden dimension:128
+test micro mean:[0.801 0.801 0.796 0.796]std[0.022 0.025 0.023 0.023]
+test macro mean:[0.799 0.8   0.793 0.793]std[0.022 0.026 0.024 0.024]
+train micro mean:[0.797 0.8   0.801 0.801]std[0.009 0.011 0.013 0.013]
+train macro mean:[0.795 0.798 0.799 0.799]std[0.008 0.012 0.014 0.014]
+hidden dimension:256
+test micro mean:[0.808 0.808 0.806 0.806]std[0.029 0.029 0.019 0.019]
+test macro mean:[0.806 0.806 0.803 0.803]std[0.032 0.032 0.021 0.021]
+train micro mean:[0.803 0.803 0.808 0.808]std[0.013 0.013 0.018 0.018]
+train macro mean:[0.802 0.802 0.805 0.805]std[0.014 0.014 0.021 0.021]
+dataset:REDDITMULTI5K
+hidden dimension:8
+test micro mean:[0.517 0.517 0.514 0.504]std[0.014 0.014 0.011 0.018]
+test macro mean:[0.501 0.501 0.49  0.49 ]std[0.017 0.017 0.018 0.023]
+train micro mean:[0.512 0.512 0.515 0.514]std[0.025 0.025 0.021 0.017]
+train macro mean:[0.496 0.496 0.491 0.501]std[0.031 0.031 0.026 0.025]
+hidden dimension:16
+test micro mean:[0.524 0.524 0.516 0.51 ]std[0.024 0.024 0.017 0.017]
+test macro mean:[0.509 0.509 0.494 0.501]std[0.024 0.024 0.025 0.014]
+train micro mean:[0.52  0.52  0.522 0.516]std[0.023 0.023 0.018 0.018]
+train macro mean:[0.506 0.506 0.503 0.507]std[0.023 0.023 0.021 0.019]
+hidden dimension:32
+test micro mean:[0.505 0.505 0.505 0.493]std[0.025 0.025 0.025 0.02 ]
+test macro mean:[0.487 0.487 0.487 0.481]std[0.031 0.031 0.031 0.026]
+train micro mean:[0.505 0.505 0.505 0.504]std[0.014 0.014 0.014 0.016]
+train macro mean:[0.487 0.487 0.487 0.493]std[0.019 0.019 0.019 0.02 ]
+hidden dimension:64
+test micro mean:[0.503 0.5   0.503 0.5  ]std[0.024 0.024 0.024 0.024]
+test macro mean:[0.459 0.494 0.459 0.494]std[0.035 0.031 0.035 0.031]
+train micro mean:[0.5   0.497 0.5   0.497]std[0.019 0.022 0.019 0.022]
+train macro mean:[0.455 0.49  0.455 0.49 ]std[0.03  0.027 0.03  0.027]
+hidden dimension:128
+test micro mean:[0.516 0.511 0.516 0.495]std[0.035 0.023 0.035 0.024]
+test macro mean:[0.492 0.501 0.492 0.489]std[0.039 0.023 0.039 0.027]
+train micro mean:[0.517 0.51  0.517 0.507]std[0.016 0.019 0.016 0.017]
+train macro mean:[0.492 0.501 0.492 0.502]std[0.02  0.022 0.02  0.017]
+hidden dimension:256
+test micro mean:[0.517 0.51  0.51  0.51 ]std[0.027 0.022 0.022 0.022]
+test macro mean:[0.492 0.5   0.5   0.5  ]std[0.03  0.019 0.019 0.019]
+train micro mean:[0.517 0.518 0.518 0.518]std[0.011 0.01  0.01  0.01 ]
+train macro mean:[0.494 0.509 0.509 0.509]std[0.019 0.016 0.016 0.016]
