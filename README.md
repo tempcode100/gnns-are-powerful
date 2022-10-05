@@ -32,7 +32,7 @@ python main_CSL.py
 ```
 and
 ```
-python main_proposed.py
+python main.py
 ```
 ```
 python main_GIN_1.py
