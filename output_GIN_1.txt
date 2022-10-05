@@ -123,37 +123,6 @@ test micro mean:[0.497 0.493 0.493 0.494]std[0.031 0.031 0.018 0.023]
 test macro mean:[0.482 0.486 0.475 0.486]std[0.037 0.033 0.024 0.024]
 train micro mean:[0.511 0.508 0.529 0.525]std[0.004 0.006 0.014 0.009]
 train macro mean:[0.495 0.503 0.513 0.518]std[0.012 0.008 0.02  0.011]
-dataset:COLLAB
-hidden dimension:8
-test micro mean:[0.718 0.705 0.718 0.712]std[0.015 0.027 0.015 0.023]
-test macro mean:[0.689 0.69  0.689 0.689]std[0.018 0.027 0.018 0.025]
-train micro mean:[0.72  0.708 0.72  0.718]std[0.009 0.016 0.009 0.009]
-train macro mean:[0.69  0.691 0.69  0.695]std[0.016 0.014 0.016 0.014]
-hidden dimension:16
-test micro mean:[0.715 0.703 0.709 0.703]std[0.019 0.017 0.015 0.017]
-test macro mean:[0.678 0.688 0.676 0.688]std[0.025 0.017 0.021 0.017]
-train micro mean:[0.714 0.707 0.715 0.707]std[0.011 0.016 0.012 0.016]
-train macro mean:[0.679 0.692 0.679 0.692]std[0.018 0.016 0.021 0.016]
-hidden dimension:32
-test micro mean:[0.726 0.714 0.726 0.714]std[0.014 0.016 0.014 0.016]
-test macro mean:[0.695 0.701 0.695 0.701]std[0.013 0.015 0.013 0.015]
-train micro mean:[0.724 0.72  0.724 0.72 ]std[0.011 0.013 0.011 0.013]
-train macro mean:[0.692 0.706 0.692 0.706]std[0.02  0.012 0.02  0.012]
-hidden dimension:64
-test micro mean:[0.702 0.695 0.7   0.695]std[0.017 0.019 0.03  0.019]
-test macro mean:[0.66  0.671 0.648 0.671]std[0.025 0.022 0.053 0.022]
-train micro mean:[0.707 0.703 0.707 0.703]std[0.009 0.008 0.012 0.008]
-train macro mean:[0.665 0.679 0.659 0.679]std[0.018 0.011 0.031 0.011]
-hidden dimension:128
-test micro mean:[0.704 0.698 0.698 0.698]std[0.019 0.018 0.014 0.018]
-test macro mean:[0.665 0.672 0.66  0.672]std[0.025 0.022 0.019 0.022]
-train micro mean:[0.704 0.701 0.705 0.701]std[0.01  0.009 0.009 0.009]
-train macro mean:[0.667 0.674 0.668 0.674]std[0.017 0.013 0.018 0.013]
-hidden dimension:256
-test micro mean:[0.701 0.701 0.701 0.701]std[0.024 0.024 0.024 0.024]
-test macro mean:[0.661 0.661 0.661 0.661]std[0.027 0.027 0.027 0.027]
-train micro mean:[0.703 0.703 0.703 0.703]std[0.015 0.015 0.015 0.015]
-train macro mean:[0.662 0.662 0.662 0.662]std[0.021 0.021 0.021 0.021]
 dataset:MUTAG
 hidden dimension:8
 test micro mean:[0.876 0.876 0.849 0.849]std[0.089 0.089 0.107 0.107]
