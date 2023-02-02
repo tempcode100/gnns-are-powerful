@@ -1,7 +1,7 @@
-# Graph Neural Networks Are More Powerful Than we Think
+# Representation Power of Graph Neural Networks: Improved Expressivity Characterization via Algebraic Analysis
 
 This directory includes the pytorch implementation for the experiments conducted
-in the paper "Graph Neural Networks Are More Powerful Than we Think". To test
+in the paper "Representation Power of Graph Neural Networks: Improved Expressivity Characterization via Algebraic Analysis". To test
 the provided code please install the latest stable Pytorch version from 
 "https://pytorch.org/get-started/locally/". Also install the latest 
 Pytorch Geometric CUDA version from
